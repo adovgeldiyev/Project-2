@@ -1,6 +1,6 @@
 # Project-2
 
-Theme: Chicago Food Inspections
+Theme: Chicago Food Inspections<br>
 Visit the link: [https://food-inspection-ad.herokuapp.com/index.html]<br>
 
 Data Source: https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/data
