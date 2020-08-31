@@ -6,7 +6,7 @@ Visit the link: [https://food-inspection-ad.herokuapp.com/index.html]<br>
 Data Source: https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/data
 
 Coding approach: HTML, JavaScript, Bootstrap, D3.js, chart.js, leaflet map
-
+<br>
 Details: 
 The food inspection includes the facility such as restaurant, grocery, liqor store and schools.<br> 
 The database we have also shows the inspection result, risk level and violation type, etc. 
